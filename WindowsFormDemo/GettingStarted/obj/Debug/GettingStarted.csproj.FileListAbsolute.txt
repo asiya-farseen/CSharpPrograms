@@ -1,0 +1,11 @@
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\GettingStarted\bin\Debug\GettingStarted.exe.config
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\GettingStarted\bin\Debug\GettingStarted.exe
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\GettingStarted\bin\Debug\GettingStarted.pdb
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\GettingStarted\obj\Debug\GettingStarted.csproj.AssemblyReference.cache
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\GettingStarted\obj\Debug\GettingStarted.csproj.SuggestedBindingRedirects.cache
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\GettingStarted\obj\Debug\GettingStarted.Form1.resources
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\GettingStarted\obj\Debug\GettingStarted.Properties.Resources.resources
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\GettingStarted\obj\Debug\GettingStarted.csproj.GenerateResource.cache
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\GettingStarted\obj\Debug\GettingStarted.csproj.CoreCompileInputs.cache
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\GettingStarted\obj\Debug\GettingStarted.exe
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\GettingStarted\obj\Debug\GettingStarted.pdb

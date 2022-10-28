@@ -1,0 +1,11 @@
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\Ecom\bin\Debug\Ecom.exe.config
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\Ecom\bin\Debug\Ecom.exe
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\Ecom\bin\Debug\Ecom.pdb
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\Ecom\obj\Debug\Ecom.csproj.AssemblyReference.cache
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\Ecom\obj\Debug\Ecom.csproj.SuggestedBindingRedirects.cache
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\Ecom\obj\Debug\Ecom.ECom.resources
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\Ecom\obj\Debug\Ecom.Properties.Resources.resources
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\Ecom\obj\Debug\Ecom.csproj.GenerateResource.cache
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\Ecom\obj\Debug\Ecom.csproj.CoreCompileInputs.cache
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\Ecom\obj\Debug\Ecom.exe
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\Ecom\obj\Debug\Ecom.pdb

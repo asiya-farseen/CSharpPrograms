@@ -1,0 +1,15 @@
+C:\Users\farseen.a\Desktop\csharppgms\basicCsharp\basicCsharp\bin\Debug\net6.0\basicCsharp.exe
+C:\Users\farseen.a\Desktop\csharppgms\basicCsharp\basicCsharp\bin\Debug\net6.0\basicCsharp.deps.json
+C:\Users\farseen.a\Desktop\csharppgms\basicCsharp\basicCsharp\bin\Debug\net6.0\basicCsharp.runtimeconfig.json
+C:\Users\farseen.a\Desktop\csharppgms\basicCsharp\basicCsharp\bin\Debug\net6.0\basicCsharp.dll
+C:\Users\farseen.a\Desktop\csharppgms\basicCsharp\basicCsharp\bin\Debug\net6.0\basicCsharp.pdb
+C:\Users\farseen.a\Desktop\csharppgms\basicCsharp\basicCsharp\obj\Debug\net6.0\basicCsharp.csproj.AssemblyReference.cache
+C:\Users\farseen.a\Desktop\csharppgms\basicCsharp\basicCsharp\obj\Debug\net6.0\basicCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farseen.a\Desktop\csharppgms\basicCsharp\basicCsharp\obj\Debug\net6.0\basicCsharp.AssemblyInfoInputs.cache
+C:\Users\farseen.a\Desktop\csharppgms\basicCsharp\basicCsharp\obj\Debug\net6.0\basicCsharp.AssemblyInfo.cs
+C:\Users\farseen.a\Desktop\csharppgms\basicCsharp\basicCsharp\obj\Debug\net6.0\basicCsharp.csproj.CoreCompileInputs.cache
+C:\Users\farseen.a\Desktop\csharppgms\basicCsharp\basicCsharp\obj\Debug\net6.0\basicCsharp.dll
+C:\Users\farseen.a\Desktop\csharppgms\basicCsharp\basicCsharp\obj\Debug\net6.0\refint\basicCsharp.dll
+C:\Users\farseen.a\Desktop\csharppgms\basicCsharp\basicCsharp\obj\Debug\net6.0\basicCsharp.pdb
+C:\Users\farseen.a\Desktop\csharppgms\basicCsharp\basicCsharp\obj\Debug\net6.0\basicCsharp.genruntimeconfig.cache
+C:\Users\farseen.a\Desktop\csharppgms\basicCsharp\basicCsharp\obj\Debug\net6.0\ref\basicCsharp.dll

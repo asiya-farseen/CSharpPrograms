@@ -1,0 +1,15 @@
+C:\Users\farseen.a\Desktop\csharppgms\DelegateNothers\DelegateNothers\bin\Debug\net6.0\DelegateNothers.exe
+C:\Users\farseen.a\Desktop\csharppgms\DelegateNothers\DelegateNothers\bin\Debug\net6.0\DelegateNothers.deps.json
+C:\Users\farseen.a\Desktop\csharppgms\DelegateNothers\DelegateNothers\bin\Debug\net6.0\DelegateNothers.runtimeconfig.json
+C:\Users\farseen.a\Desktop\csharppgms\DelegateNothers\DelegateNothers\bin\Debug\net6.0\DelegateNothers.dll
+C:\Users\farseen.a\Desktop\csharppgms\DelegateNothers\DelegateNothers\bin\Debug\net6.0\DelegateNothers.pdb
+C:\Users\farseen.a\Desktop\csharppgms\DelegateNothers\DelegateNothers\obj\Debug\net6.0\DelegateNothers.csproj.AssemblyReference.cache
+C:\Users\farseen.a\Desktop\csharppgms\DelegateNothers\DelegateNothers\obj\Debug\net6.0\DelegateNothers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farseen.a\Desktop\csharppgms\DelegateNothers\DelegateNothers\obj\Debug\net6.0\DelegateNothers.AssemblyInfoInputs.cache
+C:\Users\farseen.a\Desktop\csharppgms\DelegateNothers\DelegateNothers\obj\Debug\net6.0\DelegateNothers.AssemblyInfo.cs
+C:\Users\farseen.a\Desktop\csharppgms\DelegateNothers\DelegateNothers\obj\Debug\net6.0\DelegateNothers.csproj.CoreCompileInputs.cache
+C:\Users\farseen.a\Desktop\csharppgms\DelegateNothers\DelegateNothers\obj\Debug\net6.0\DelegateNothers.dll
+C:\Users\farseen.a\Desktop\csharppgms\DelegateNothers\DelegateNothers\obj\Debug\net6.0\refint\DelegateNothers.dll
+C:\Users\farseen.a\Desktop\csharppgms\DelegateNothers\DelegateNothers\obj\Debug\net6.0\DelegateNothers.pdb
+C:\Users\farseen.a\Desktop\csharppgms\DelegateNothers\DelegateNothers\obj\Debug\net6.0\DelegateNothers.genruntimeconfig.cache
+C:\Users\farseen.a\Desktop\csharppgms\DelegateNothers\DelegateNothers\obj\Debug\net6.0\ref\DelegateNothers.dll

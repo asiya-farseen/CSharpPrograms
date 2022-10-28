@@ -1,0 +1,11 @@
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\SimpleInterest\bin\Debug\SimpleInterest.exe.config
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\SimpleInterest\bin\Debug\SimpleInterest.exe
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\SimpleInterest\bin\Debug\SimpleInterest.pdb
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\SimpleInterest\obj\Debug\SimpleInterest.csproj.AssemblyReference.cache
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\SimpleInterest\obj\Debug\SimpleInterest.csproj.SuggestedBindingRedirects.cache
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\SimpleInterest\obj\Debug\SimpleInterest.Properties.Resources.resources
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\SimpleInterest\obj\Debug\SimpleInterest.SimpleInterest.resources
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\SimpleInterest\obj\Debug\SimpleInterest.csproj.GenerateResource.cache
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\SimpleInterest\obj\Debug\SimpleInterest.csproj.CoreCompileInputs.cache
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\SimpleInterest\obj\Debug\SimpleInterest.exe
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\SimpleInterest\obj\Debug\SimpleInterest.pdb

@@ -1,0 +1,12 @@
+C:\Users\farseen.a\Desktop\csharppgms\AssemblyDemo\AssemblyLib\bin\Debug\net6.0\AssemblyLib.deps.json
+C:\Users\farseen.a\Desktop\csharppgms\AssemblyDemo\AssemblyLib\bin\Debug\net6.0\AssemblyLib.dll
+C:\Users\farseen.a\Desktop\csharppgms\AssemblyDemo\AssemblyLib\bin\Debug\net6.0\AssemblyLib.pdb
+C:\Users\farseen.a\Desktop\csharppgms\AssemblyDemo\AssemblyLib\obj\Debug\net6.0\AssemblyLib.csproj.AssemblyReference.cache
+C:\Users\farseen.a\Desktop\csharppgms\AssemblyDemo\AssemblyLib\obj\Debug\net6.0\AssemblyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farseen.a\Desktop\csharppgms\AssemblyDemo\AssemblyLib\obj\Debug\net6.0\AssemblyLib.AssemblyInfoInputs.cache
+C:\Users\farseen.a\Desktop\csharppgms\AssemblyDemo\AssemblyLib\obj\Debug\net6.0\AssemblyLib.AssemblyInfo.cs
+C:\Users\farseen.a\Desktop\csharppgms\AssemblyDemo\AssemblyLib\obj\Debug\net6.0\AssemblyLib.csproj.CoreCompileInputs.cache
+C:\Users\farseen.a\Desktop\csharppgms\AssemblyDemo\AssemblyLib\obj\Debug\net6.0\AssemblyLib.dll
+C:\Users\farseen.a\Desktop\csharppgms\AssemblyDemo\AssemblyLib\obj\Debug\net6.0\refint\AssemblyLib.dll
+C:\Users\farseen.a\Desktop\csharppgms\AssemblyDemo\AssemblyLib\obj\Debug\net6.0\AssemblyLib.pdb
+C:\Users\farseen.a\Desktop\csharppgms\AssemblyDemo\AssemblyLib\obj\Debug\net6.0\ref\AssemblyLib.dll

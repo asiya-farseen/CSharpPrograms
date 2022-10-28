@@ -1,0 +1,11 @@
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\WindowsForms\obj\Debug\WindowsForms.csproj.AssemblyReference.cache
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\WindowsForms\obj\Debug\WindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\WindowsForms\obj\Debug\WindowsForms.pdb
+C:\Users\farseen.a\Desktop\csharppgms\WindowsFormDemo\WindowsForms\obj\Debug\WindowsForms.claclculator.resources

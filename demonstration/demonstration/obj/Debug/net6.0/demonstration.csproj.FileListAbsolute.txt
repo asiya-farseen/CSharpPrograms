@@ -1,0 +1,15 @@
+C:\Users\farseen.a\Desktop\csharppgms\demonstration\demonstration\obj\Debug\net6.0\demonstration.csproj.AssemblyReference.cache
+C:\Users\farseen.a\Desktop\csharppgms\demonstration\demonstration\obj\Debug\net6.0\demonstration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farseen.a\Desktop\csharppgms\demonstration\demonstration\obj\Debug\net6.0\demonstration.AssemblyInfoInputs.cache
+C:\Users\farseen.a\Desktop\csharppgms\demonstration\demonstration\obj\Debug\net6.0\demonstration.AssemblyInfo.cs
+C:\Users\farseen.a\Desktop\csharppgms\demonstration\demonstration\obj\Debug\net6.0\demonstration.csproj.CoreCompileInputs.cache
+C:\Users\farseen.a\Desktop\csharppgms\demonstration\demonstration\bin\Debug\net6.0\demonstration.exe
+C:\Users\farseen.a\Desktop\csharppgms\demonstration\demonstration\bin\Debug\net6.0\demonstration.deps.json
+C:\Users\farseen.a\Desktop\csharppgms\demonstration\demonstration\bin\Debug\net6.0\demonstration.runtimeconfig.json
+C:\Users\farseen.a\Desktop\csharppgms\demonstration\demonstration\bin\Debug\net6.0\demonstration.dll
+C:\Users\farseen.a\Desktop\csharppgms\demonstration\demonstration\bin\Debug\net6.0\demonstration.pdb
+C:\Users\farseen.a\Desktop\csharppgms\demonstration\demonstration\obj\Debug\net6.0\demonstration.dll
+C:\Users\farseen.a\Desktop\csharppgms\demonstration\demonstration\obj\Debug\net6.0\refint\demonstration.dll
+C:\Users\farseen.a\Desktop\csharppgms\demonstration\demonstration\obj\Debug\net6.0\demonstration.pdb
+C:\Users\farseen.a\Desktop\csharppgms\demonstration\demonstration\obj\Debug\net6.0\demonstration.genruntimeconfig.cache
+C:\Users\farseen.a\Desktop\csharppgms\demonstration\demonstration\obj\Debug\net6.0\ref\demonstration.dll
